@@ -22,3 +22,7 @@ This API allows users to manage products and add them to their shopping cart. It
 ## Postman Collection
 
 -   [Postman](https://documenter.getpostman.com/view/15717582/2sAYBbdUAZ)
+
+## ERD
+
+-   [ERD](https://dbdiagram.io/d/E-FastStore-API-61fb772585022f4ee52fedd5)
